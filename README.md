@@ -42,7 +42,7 @@ This is a React-based digital tools buying website where users can explore diffe
 ---
 
 ## 📂 GitHub Repository
-🔗 https://github.com/Asmual/Assignment-6
+🔗[ https://github.com/Asmual/Assignment-6](https://github.com/Asmual/GigiTools-React-Project)
 
 ---
 
